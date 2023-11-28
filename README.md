@@ -7,3 +7,4 @@ This repository is built step by step in the tutorial.
 
 Hello World My Name is Chung
 I'm 21 year old
+Fix Bug
